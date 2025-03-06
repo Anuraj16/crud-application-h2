@@ -1,4 +1,4 @@
-simple crud application for bok storage.
+simple crud application for book storage.
 
 adds, retrieves, updates and deletes books.
 
